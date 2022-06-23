@@ -10,3 +10,6 @@ Watch tutorial on YouTube
 
 1. Open index.html in brower
 
+## Adding new feature
+
+This feature is a quick-test feature that needs to be added.
