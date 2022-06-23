@@ -10,3 +10,6 @@ Watch tutorial on YouTube
 
 1. Open index.html in brower
 
+## adding long term solution on main
+
+This feature is added directly to main
