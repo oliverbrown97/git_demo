@@ -4,8 +4,4 @@
 
 #test branch addition
 
-<<<<<<< HEAD
-#next branch 2
-=======
 #alternative
->>>>>>> main
